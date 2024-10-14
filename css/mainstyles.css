@@ -1,0 +1,49 @@
+
+body{
+    width: 70%;
+    background-color: darkblue;
+    margin: auto;
+ 
+    
+    }
+
+    main{
+background-color: rgb(245, 193, 175);
+margin:auto;
+border: 2px solid black;
+padding: 5px;
+
+    }
+
+h1{
+color: blueviolet; 
+
+}
+
+
+p {
+
+    /*background-color: blue;*/
+    color: whitesmoke;
+}
+
+.muganzistyles{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: green;
+color: yellow;
+
+}
+
+ul{
+
+    display: inline;
+
+}
+
+ul>li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
